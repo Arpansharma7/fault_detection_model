@@ -1,4 +1,4 @@
-**This repository contains my solution to the problem for fault detection:**
+**This repository contains my solution to the problem for fault detection given for ML alrIEEEna - IEEE GEHU:**
 
 *PROBLEM OVERVIEW:*
 
