@@ -27,6 +27,7 @@
 
 
 *PROJECT STRUCTURE:*
+```
 fault_detection/
 │
 ├── dataset/
@@ -39,7 +40,7 @@ fault_detection/
 ├── model.py
 ├── requirements.txt
 └── README.md
-
+```
 *HOW TO RUN:*
   Install dependencies:
   
@@ -54,6 +55,8 @@ fault_detection/
     FINAL.csv
 
 *Libraries used:*
+  ```
   pandas
   lightgbm
   scikit-learn
+  ```
