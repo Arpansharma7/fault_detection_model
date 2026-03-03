@@ -61,4 +61,4 @@ out = pd.DataFrame({
     "ID": test_ids,
     "CLASS": final_preds
 })
-out.to_csv("output/FINAL.csv", index=False)
+out.to_csv("FINAL.csv", index=False)
